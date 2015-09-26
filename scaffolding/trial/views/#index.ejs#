@@ -6,6 +6,7 @@
   </head>
   <body>
     <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
+    <p>&ldquo;Welcome to <%=title%>&rdquo;</p>
+    <p>&mdash;<%=name%></p>
   </body>
 </html>
